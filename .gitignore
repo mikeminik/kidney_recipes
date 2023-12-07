@@ -1,3 +1,7 @@
+# temporary guard against accidental large file pushes
+
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
